@@ -1,0 +1,4 @@
+1.Third text file---till now i am using 
+
+	git add
+	git status

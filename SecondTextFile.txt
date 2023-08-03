@@ -1,0 +1,3 @@
+1.In this second file, git add command is used.
+
+2.Newly created file is moved from Local machine to Staging area.
